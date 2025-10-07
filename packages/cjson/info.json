@@ -1,0 +1,5 @@
+{
+	"name": "cJSON",
+	"latest": "1.7.19",
+	"description": "Ultralightweight JSON parser in ANSI C"
+}

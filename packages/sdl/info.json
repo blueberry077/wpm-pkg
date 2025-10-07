@@ -1,4 +1,5 @@
 {
-	"name": "sdl",
-	"latest": "3.2.24"
+	"name": "Simple DirectMedia Layer",
+	"latest": "3.2.24",
+	"description": "Cross-platform software development library designed to provide a hardware abstraction layer."
 }

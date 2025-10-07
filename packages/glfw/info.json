@@ -1,4 +1,5 @@
 {
-	"name": "glfw",
-	"latest": "3.4"
+	"name": "GLFW",
+	"latest": "3.4",
+	"description": "Open Source multi-platform library for OpenGL"
 }
