@@ -1,0 +1,5 @@
+{
+	"name": "curl",
+	"latest": "8.16.0",
+	"description": "Library for transferring data with URL syntax."
+}
